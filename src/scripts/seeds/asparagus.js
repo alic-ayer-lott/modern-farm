@@ -1,4 +1,4 @@
-const createAsparagus = () => {
+export const createAsparagus = () => {
     return {
         type: "Asparagus",
         height: 24,
